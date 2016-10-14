@@ -1,0 +1,12 @@
+/.idea/
+/.gradle/
+/build/
+/gradle/
+/activity_manager_library/build/
+/app/build/
+/bottom_library/build/
+/crowdfunding_library/build/
+/destination_library/build/
+/live_video_library/build/
+/mine_library/build/
+/welcome_library/build/
