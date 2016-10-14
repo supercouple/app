@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bottom_library</string>
+    <string name="tab_1_title">tab1</string>
+    <string name="tab_2_title">tab2</string>
+    <string name="tab_3_title">tab3</string>
+    <string name="tab_4_title">tab4</string>
+</resources>
