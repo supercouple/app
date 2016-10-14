@@ -1,6 +1,5 @@
-ZhongYou Android Application
+ScrollView Transparent Android Application
 ===
 app
 ---
-#zhongyou app
 Welocome!
