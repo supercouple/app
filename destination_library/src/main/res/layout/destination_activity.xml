@@ -69,7 +69,6 @@
                             android:scaleType="centerCrop"
                             android:layout_marginRight="2dp"
                             android:layout_marginLeft="2dp"
-                            android:background="@drawable/shape_Image"
                     />
                     <ImageView
                             android:id="@+id/topImg2"

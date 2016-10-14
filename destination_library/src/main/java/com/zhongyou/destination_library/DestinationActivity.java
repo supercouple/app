@@ -28,9 +28,9 @@ public class DestinationActivity extends Activity implements ObservableScrollVie
         super.onCreate(savedInstanceState);
         setContentView(R.layout.destination_activity);
         //透明状态栏
-        getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+//        getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
         //透明导航栏
-        getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
+//        getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
 
         scrollView = (ObservableScrollView) findViewById(R.id.scrollview);
         layoutHead = findViewById(R.id.view_head);

@@ -3,6 +3,7 @@
                 android:background="#fd915b"
                 android:layout_height="50dp"
                 android:id="@+id/view_head"
+
 >
 
     <TextView
@@ -16,6 +17,8 @@
             android:textSize="16sp"
             android:singleLine="true"
             android:text="优美图片"
+            android:fitsSystemWindows="true"
+            android:clipToPadding="true"
     />
 
     <ImageView
